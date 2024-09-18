@@ -30,6 +30,8 @@ void print_arrow(int leftCol, int size)
 {
   print_triangle(0, 4);
   print_square(2, 5);
+
+  // Attempting to Print an Arrow Pointing Upward Without Utilizing Methods Above.
   /*
   for (int row = 0; row < 5; row++)
     {
